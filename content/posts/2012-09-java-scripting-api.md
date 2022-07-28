@@ -1,10 +1,12 @@
 ---
-title: "JSR-223 Java Scripting API - a real world use case: success and pitfalls"
+title: "JSR-223 Java Scripting API - a Real World Use Case: Success and Pitfalls"
 date: 2012-09-20T00:00:00Z
 draft: false
 ---
 
 Despite the fact that Java 6 is fast approaching EOL, certain newly added features seem to still remain relatively unknown or unused; JSR-223, the Java Scripting API is probably one of those least mentioned in “What’s New in Java 6” type articles. In this article, we will touch on a real-world use case of the new API and its programming model. Hopefully towards the end, the readers can have a better understanding of the feature and form their own opinions about the suitability for use of the API in their own projects. 
+
+![Unsplash | Kevin Ku](/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg)
 
 ## Why Java Scripting API for the project
 
