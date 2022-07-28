@@ -2,7 +2,12 @@
 
 ![Publish Status](https://github.com/cwang/cwang.github.io/actions/workflows/publish.yml/badge.svg)
 
+It relies on [Hugo](https://gohugo.io) to generate the static site. 
 
-It uses [GitHub Pages](https://pages.github.com/) coupled with [GitHub Actions](https://github.com/features/actions) to deploy the site.
+It then uses [GitHub Pages](https://pages.github.com/) coupled with [GitHub Actions](https://github.com/features/actions) to deploy the site.
 
-Built by <img src="https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg" width="100"/>
+A few caveats:
+- It uses themes directly (via `git checkout-index`) instead of git submodules as recommended by Hugo: it is secure and friendly towards local customisations.
+- It has some local shortcodes to help embed HTML into pages.
+
+*Feel free to fork the repo for building your own site with the tech stack above*

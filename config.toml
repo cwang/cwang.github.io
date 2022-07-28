@@ -3,7 +3,7 @@ languageCode = "en-gb"
 timeZone = "UTC"
 title = "Thoughts from Chen Wang"
 theme = "charaka"
-copyright = "&copy; 2012-2022 Chen Wang | built by <a href='https://gohugo.io/'>Hugo</a> with <a href='https://github.com/natarajmb/charaka-hugo-theme'>Charaka theme</a>"
+copyright = "&copy; 2012-2022 Chen Wang | Built by <a href='https://github.com'>GitHub</a> and <a href='https://gohugo.io'>Hugo</a> with <a href='https://github.com/natarajmb/charaka-hugo-theme'>Charaka theme</a> | <a href='https://github.com/cwang/cwang.github.io'>Source Code</a>"
 disqusShortname = ""
 googleAnalytics = "G-3008ZMM0FD"
 
@@ -13,8 +13,12 @@ googleAnalytics = "G-3008ZMM0FD"
   style = "zenburn"
 
 [[params.social]]
-  url = "about.html"
+  url = "about"
   fa_icon = "fas fa-info" 
+
+[[params.social]]
+  url = "contact"
+  fa_icon = "fas fa-envelope" 
 
 [[params.social]]
   url = "https://github.com/cwang"
@@ -22,4 +26,4 @@ googleAnalytics = "G-3008ZMM0FD"
 
 [[params.social]]
   url = "https://www.linkedin.com/in/chenwang/"
-  fa_icon = "fab fa-linkedin-in"
+  fa_icon = "fab fa-linkedin"
