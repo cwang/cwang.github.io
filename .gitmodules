@@ -1,9 +1,0 @@
-[submodule "themes/journal"]
-	path = themes/journal
-	url = https://github.com/damiencaselli/hugo-journal.git
-[submodule "themes/paperback"]
-	path = themes/paperback
-	url = https://github.com/damiencaselli/paperback.git
-[submodule "themes/charaka"]
-	path = themes/charaka
-	url = https://github.com/natarajmb/charaka-hugo-theme.git

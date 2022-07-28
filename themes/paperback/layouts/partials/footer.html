@@ -1,0 +1,7 @@
+<footer class="site-footer">
+  <span class="owner">©{{ now.Year }} {{ .Site.Params.authorname }}</span>
+
+  {{ partial "analytics.html" . }}
+
+  {{ "<!-- Build date: " | safeHTML }}{{ (now.Format "Mon, 02 Jan 2006 15:04:05 MST") | safeHTML }}{{ " -->" | safeHTML }}
+</footer>
