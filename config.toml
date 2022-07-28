@@ -1,0 +1,25 @@
+baseURL = "https://chenwang.org/"
+languageCode = "en-gb"
+timeZone = "UTC"
+title = "Thoughts from Chen Wang"
+theme = "charaka"
+copyright = "&copy; 2012-2022 Chen Wang | built by <a href='https://gohugo.io/'>Hugo</a> with <a href='https://github.com/natarajmb/charaka-hugo-theme'>Charaka theme</a>"
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+  style = "zenburn"
+
+[[params.social]]
+  url = "about.html"
+  fa_icon = "fas fa-info" 
+
+[[params.social]]
+  url = "https://github.com/cwang"
+  fa_icon = "fab fa-github"
+
+[[params.social]]
+  url = "https://www.linkedin.com/in/chenwang/"
+  fa_icon = "fab fa-linkedin-in"
