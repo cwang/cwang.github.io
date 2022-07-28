@@ -7,6 +7,8 @@ draft: false
 ## Caveat
 Java and JVM have changed a lot since this article was written. 
 
+![Unsplash | Kenny Eliason](/kenny-eliason-uEcSKKDB1pg-unsplash.jpg)
+
 **Read with a nostalgic lens.**
 
 ## Development
@@ -31,7 +33,7 @@ Java and JVM have changed a lot since this article was written.
 - Have as few dependencies as possible 
 
 ### Documentation
-Have the stamina to support it for as long as possible
+- Have the stamina to support it for as long as possible
 
 ## Deployment
 

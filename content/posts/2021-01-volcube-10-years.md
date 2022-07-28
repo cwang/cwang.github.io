@@ -1,5 +1,5 @@
 ---
-title: "Lessons learnt in 10 years of Volcube"
+title: "Lessons Learnt in 10 years of Volcube"
 date: 2021-01-30T00:00:00Z
 draft: false
 ---
