@@ -7,6 +7,10 @@ copyright = "&copy; 2012-2022 Chen Wang | Built by <a href='https://github.com'>
 disqusShortname = ""
 googleAnalytics = "G-3008ZMM0FD"
 
+[taxonomies]
+  series = "series"
+  categories = "categories"
+
 [params]
 
 [params.highlight]

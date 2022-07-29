@@ -9,5 +9,6 @@ It then uses [GitHub Pages](https://pages.github.com/) coupled with [GitHub Acti
 A few caveats:
 - It uses themes directly (via `git checkout-index`) instead of git submodules as recommended by Hugo: it is secure and friendly towards local customisations.
 - It has some local shortcodes to help embed HTML into pages.
+- It uses `2012-01-01T00:00:00Z` as a magic timestamp to indicate pages other than blog posts to allow some customisations - *hacky I know :)*
 
 *Feel free to fork the repo for building your own site with the tech stack above*
