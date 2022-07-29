@@ -14,9 +14,9 @@ One thing I know for sure is that I have taken many learnings from being the fou
 I will delve into a few common topics during a startup lifecycle, in the context of Volcube, in this three-part series. The first part is for product and growth; followed by engineering and design; and then any other topics. Each part ends with a *what-we-could-have-done-differently* question to give some food for thoughts.    
 
 
-- [Part I: Product & Growth](./2021-01-volcube-10-years-p1.md)
-- [Part II: Engineering & Design](./2021-01-volcube-10-years-p2.md)
-- [Part III: AOB (any other business)](./2021-01-volcube-10-years-p3.md)
+- [Part I: Product & Growth]({{< ref "/posts/2021-01-volcube-10-years-p1.md" >}})
+- [Part II: Engineering & Design]({{< ref "/posts/2021-01-volcube-10-years-p2.md" >}})
+- [Part III: AOB (any other business)]({{< ref "/posts/2021-01-volcube-10-years-p3.md" >}})
 
 
 ![Unsplash | Med Badr Chemmaoui](/med-badr-chemmaoui-ZSPBhokqDMc-unsplash.jpg)
