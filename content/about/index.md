@@ -4,6 +4,8 @@ date: 2012-01-01T00:00:00Z
 draft: false
 ---
 
+![Unsplash | Fabrizio Chiagano](/fabrizio-chiagano-rDwIXsgb2LY-unsplash.jpg)
+
 ## What this site is for
 
 I started writing more a few years ago, perhaps as a result of realising how scalable it is as a communication channel. 

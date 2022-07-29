@@ -4,6 +4,8 @@ date: 2012-01-01T00:00:00Z
 draft: false
 ---
 
+![Unsplash | Toa Heftiba](/toa-heftiba-fbaoc5z0F4U-unsplash.jpg)
+
 ## Ask away
 
 I am open for various opportunities. 
