@@ -4,6 +4,26 @@
   {{ if .Date.After (time "2012-01-01") }}<h2 class="subtitle is-6">{{ .Date.Format "January 2, 2006" }}</h2>{{ end }}
   <h1 class="subtitle is-size-4-mobile is-size-3-desktop">{{ .Title }}</h1>
   <div class="content">
+    {{ if .Params.series }}
+      <div class="series">
+        <h4>This article is part of a series:</h4>
+        <ul>
+            {{ range $num,$post := (index .Site.Taxonomies.series (index .Params.series 0 | urlize)).Pages.ByDate }}
+                {{ if eq $post.Permalink $.Page.Permalink }}
+                    <li>
+                        This Article
+                    </li>
+                {{ else }}
+                    <li>
+                        <a href="{{$post.Permalink}}">
+                            {{ $post.Params.title}}
+                        </a>
+                    </li>
+                {{end}}
+            {{end}}
+        </ul>
+      </div>
+    {{end}}
     {{ .Content }}
   </div>
 </div>
