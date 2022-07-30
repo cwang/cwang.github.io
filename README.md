@@ -11,4 +11,6 @@ A few caveats:
 - It has some local shortcodes to help embed HTML into pages.
 - It uses `2012-01-01T00:00:00Z` as a magic timestamp to indicate pages other than blog posts to allow some customisations - *hacky I know :)*
 
+*Feel free to sponsor if you like the content*
+
 *Feel free to fork the repo for building your own site with the tech stack above*
