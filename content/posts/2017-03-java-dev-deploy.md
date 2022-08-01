@@ -1,8 +1,8 @@
 ---
-title: "Opinionated Patterns/Practices in Java Development and Deployment"
+title: "Opinionated Patterns/Practices in Java Development and Deployment, 2017 Edition"
 date: 2017-03-10T00:00:00Z
 draft: false
-categories: ['Java', 'Quick take-away']
+categories: ['Java', 'Take-away']
 ---
 
 ## Caveat
