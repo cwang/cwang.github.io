@@ -7,7 +7,9 @@ categories: ['Hiring', 'Take-away']
 
 **Since offering my [free advice]({{< ref "/contact/index.md#book-free-advice-session" >}}) session, engineering hiring has been the No. 1 topic people ask about. It inspired this article.**
 
-These are actionable items for tech or tech-enabled startups and scale-ups going through rapid growth, resulting in the (urgent) need to make (large number of) engineering hires to support product development.
+One question I always ask myself when hiring is **what can we do beyond covering common hygiene factors**, knowing that it only keeps you afloat but not winning the talent war.
+
+These are actionable items for tech or tech-enabled startups and scale-ups going through rapid growth, resulting in the (urgent) need to make (large number of) engineering hires to support product development. They are also battle-tested.
 
 Therefore it is an action-oriented piece for “hows”. For the (explained) “whys” and (detailed) “whats”, another article titled “Hiring as a Product” is due soon.
 
@@ -16,7 +18,7 @@ Therefore it is an action-oriented piece for “hows”. For the (explained) “
 ## Short-term remedies
 
 ### Review pipeline and pinpoint where the bottlenecks are
-- If it is sourcing, i.e. at top of the funnel, use a platform such as Cord.co (getting candidates on the platform, with a London focus, pushing into the US now, affordable and my favourite) or Otta.com (different approach, more on broadening the advertising reach).
+- If it is sourcing, i.e. at top of the funnel, use a platform such as [Cord](https://cord.co) (getting candidates on the platform, with a London focus, pushing into the US now, affordable and my favourite) or [Otta](https://otta.com) (different approach, more on broadening the advertising reach).
 - If it is the offer rate, revisit the interview process and candidate experience.
 - If it is the acceptance rate, review compensation and candidate experience too.
 - If not sure, set up a tracking system for recruitment first to gain visibility and gather data.
@@ -29,7 +31,7 @@ Therefore it is an action-oriented piece for “hows”. For the (explained) “
 - Easy to point fingers at a less-than-ideal compensation package when hiring is difficult. 
 It’s a proxy signal on the attractiveness of the organisation as candidates don’t just consider compensation as the sole indicator of an offer.
 - If not already, starting to offer equities will sweeten the package to make it more attractive to a certain type of candidates who have a high-risk appetite.  
-Last but not least, candidates who join because of higher compensation are likely to leave because of even better compensation somewhere else (unless your organisation is always paying top of the market).
+- Last but not least, candidates who join because of higher compensation are likely to leave because of even better compensation somewhere else (unless your organisation is always paying top of the market).
 
 ### False hope: recruitment agency
 - No-hire-no-fee sounds like a fair deal and it can work once or twice with the right candidates, i.e. a stop-gap solution but always expensive.
@@ -39,7 +41,7 @@ Last but not least, candidates who join because of higher compensation are likel
 ### Shortcuts:
 - Get your best engineers involved in the interview process, the earlier the better because hiring is selling and your best salesperson should be on it (see one of the longer-term recommendations below for other topics to get them involved).
 - Set up a referral scheme; doesn’t matter how much the reward level is to start with (see one of the long-term recommendations below for iterating in hiring). 
-- Take risks if comfortable. The attrition rate will inevitably go up but this opens up a new stream of candidates who are overlooked by other organisations, who in turn make your organisation more neuronally diverse (see one of the long-term recommendations below for diversity).
+- Take risks if comfortable. The attrition rate will inevitably go up but this opens up a new stream of candidates who are overlooked by other organisations, who in turn make your organisation more neuro-diverse (see one of the long-term recommendations below for diversity).
 
 ## Long-term recommendations
 
