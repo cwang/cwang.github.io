@@ -25,6 +25,10 @@ googleAnalytics = "G-3008ZMM0FD"
   fa_icon = "fas fa-envelope" 
 
 [[params.social]]
+  url = "appearances"
+  fa_icon = "fas fa-podcast" 
+
+[[params.social]]
   url = "https://github.com/cwang"
   fa_icon = "fab fa-github"
 
