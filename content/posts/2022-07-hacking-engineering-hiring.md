@@ -22,6 +22,7 @@ Therefore it is an action-oriented piece for “hows”. For the (explained) “
 - If it is the offer rate, revisit the interview process and candidate experience.
 - If it is the acceptance rate, review compensation and candidate experience too.
 - If not sure, set up a tracking system for recruitment first to gain visibility and gather data.
+- Magic number is **5%** which is the conversation rate from screening to offer accepted, i.e. for every 20 candidates you talk to, there will be ONE hire at the end. It does vary seasonaly and move around between 3% to 6% reflected in my last few years of tracking.
 
 ### Review difficult-to-hire roles and find alternatives
 - Case-in-point: TPM, tiny pool and high bar to entry, difficult to compete with big tech - a good example of decomposing the role to see if a PM with some technical skills would fit, or a tech lead with excellent communication skills could be paired with a PM.
@@ -42,6 +43,7 @@ It’s a proxy signal on the attractiveness of the organisation as candidates do
 - Get your best engineers involved in the interview process, the earlier the better because hiring is selling and your best salesperson should be on it (see one of the longer-term recommendations below for other topics to get them involved).
 - Set up a referral scheme; doesn’t matter how much the reward level is to start with (see one of the long-term recommendations below for iterating in hiring). 
 - Take risks if comfortable. The attrition rate will inevitably go up but this opens up a new stream of candidates who are overlooked by other organisations, who in turn make your organisation more neuro-diverse (see one of the long-term recommendations below for diversity).
+- Offer equity of the company if possible, be it shares or options with a vesting schedule. I found it particularly attractive towards senior and beyond candidates, especially the company is early-stage, venture-backed meaning that there is more headroom for share price growth.
 
 ## Long-term recommendations
 
