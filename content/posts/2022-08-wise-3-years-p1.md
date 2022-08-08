@@ -32,7 +32,7 @@ With that, a journey ahead attracted (and continues to attract) people to work o
 
 There were four short values: *“This isn’t just a job, we’re a revolution”, “We get it done.”, “Customers > Team > Ego” and “No drama. Good karma.”*, which were easy to understand and follow. 
 
-Miraculously, people at Wise held the values high in their day-to-day behaviour. These values were also cited from time to time when in doubt. 
+As expected, people at Wise held the values high in their day-to-day behaviour. These values were also cited from time to time when in doubt. 
 
 The only one I had some issues with was *"Customer > team > ego"*. I found myself saying to people, that it would have been better for it to be *"Customer > Company > Team > Ego"* because as an individual, you work in a team; as a team, you work for a company; and as a company, you serve your customers. What’s more important is the emphasis on teams achieving common goals for the company and working together to achieve that. Don’t underestimate that missing *Company* - as I explain the subject of autonomy in Part II, it was a direct result of this missing link. 
 
@@ -54,17 +54,3 @@ I did get so much out of those interactions with customers. Some decisions, seem
 
 I also developed a huge respect for colleagues working in customer service and operations, as a side effect. 
 
-## Crypto, what crypto?
-
-(This part could deserve its chapter but given its strategic nature, I would still leave it here.)
-
-This topic is always interesting. 
-- For one, it had been heating up in those years, going through [boom-bust cycle](https://en.wikipedia.org/wiki/Cryptocurrency_bubble), therefore most fintechs would have paid attention to it, if not already taking action. 
-- Secondly, cross-border money transfer is supposedly one of the obvious use cases that blockchain and/or crypto could implement that have real-world values. 
-- Thirdly, with a large engineering population (see Part IV dedicated to engineering organisation), people would inevitably take an interest in it.
-
-For Wise’s position at the time, I think it necessary to single out crypto (currencies) and then talk about blockchain separately:
-- Wise had no plan to move into crypto at the time, because of the payment infrastructure it had been building that relied on interfacing with one or more banks per individual country/territory. In certain countries/territories, and/or for certain banks, crypto was considered a no-go, meaning that there would be a blanket ban for doing business with any partner dealing with crypto. Wise did not want to be in that position therefore steering clear of crypto was an easy decision to reach.
-- I felt at the time that Wise should have invested in blockchain by prototyping an on-chain money transfer application or even creating its stablecoin to work around crypto volatility. I still don’t know why these projects didn’t get started. An easy explanation would be the resource constraints which are common in a growing company. Another possible reason could be the autonomy throughout the company (see Part II) which could make it difficult to initiate moonshot projects.
-
-In short, my view is that it was a waste of opportunity not to invest in areas such as blockchain which could become a competing payment rail to the existing, peer-banking-based rail that Wise has already been building. I don’t think it would be a strategic detour; rather it would have created a brand new innovation space for the company to operate in. And there could even be synergy between the two payment rails.     
