@@ -8,7 +8,7 @@ draft: false
 
 ## What this site is for
 
-I started writing more a few years ago, perhaps as a result of realising how scalable it is as a communication channel. 
+I started writing more a few years ago ([speaking](../appearances/) too), perhaps as a result of realising how scalable it is as a communication channel. 
 
 The content here are reflections on my experience, some technical others managerial. The common theme is software engineering in tech startup/scale-up environment. 
 
@@ -29,7 +29,7 @@ Fluffy stuff aside,
 - I speak English and Mandarin.
 - I am a dad of one (girl) and an avid runner. 
 
-Use the [Contact Me](../contact/) page to get in touch.
+Use the [Contact](../contact/) page to get in touch.
 
 ## How to work with me
 
