@@ -8,7 +8,7 @@ categories: ['Lessons Learned', 'Startup']
 
 ![Twitter | Wise](/twitter-transferwise-nothing-to-hide.jpeg)
 
-(^ Kristo & Taavet ^)
+(^ Kristo & Taavet, 2014 ^)
 
 I used to think of mission as corporate-speak, before joining Wise. I was sceptical about [Wise’s mission and values](/TransferWise-handbook-180702-v12.pdf) in the beginning too. Later on, seeing how concrete strategies were put in place to achieve the mission, I was convinced.
 
