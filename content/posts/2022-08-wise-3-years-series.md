@@ -18,7 +18,7 @@ This series is my report card for my time at Wise. In true Wise spirit, I aim to
 
 - [Part I: Missions and Values]({{< ref "/posts/2022-08-wise-3-years-p1.md" >}})
 - [Part II: Autonomy in the DNA]({{< ref "/posts/2022-08-wise-3-years-p2.md" >}})
-- [Part III: People]({{< ref "/posts/2022-08-wise-3-years-p3.md" >}})
+- [Part III: All about People]({{< ref "/posts/2022-08-wise-3-years-p3.md" >}})
 - [Part IV: Engineering Organisation]({{< ref "/posts/2022-08-wise-3-years-p4.md" >}})
 - [Part VI: Other Strategic Topics]({{< ref "/posts/2022-08-wise-3-years-p5.md" >}})
 - [Part VI: Not just about Work]({{< ref "/posts/2022-08-wise-3-years-p6.md" >}})

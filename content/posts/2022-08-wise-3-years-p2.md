@@ -1,7 +1,7 @@
 ---
 title: "Reflections on 3 years of (Transfer) Wise | Part II: Autonomy in the DNA"
-date: 2022-08-11T00:00:00Z
-draft: true
+date: 2022-08-09T00:00:00Z
+draft: false
 series: ['Reflections on 3 years of (Transfer) Wise']
 categories: ['Lessons Learned', 'Startup']
 ---
