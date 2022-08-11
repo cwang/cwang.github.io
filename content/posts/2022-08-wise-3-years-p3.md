@@ -1,12 +1,12 @@
 ---
 title: "Reflections on 3 years of (Transfer) Wise | Part III: All about People"
 date: 2022-08-11T00:00:00Z
-draft: true
+draft: false
 series: ['Reflections on 3 years of (Transfer) Wise']
 categories: ['Lessons Learned', 'Startup']
 ---
 
-![beaworld](/defol_TransferWiseSummerDays2019.jpeg)
+![beaworld](/defol_TransferWiseSummerDays2019.jpg)
 
 (^ TransferWise Summer Days 2019 ^)
 
@@ -53,4 +53,4 @@ Another feature of the people at Wise at the time was how young they were. I som
 
 The rapid growth, coupled with autonomy, demanded people, especially young adults to mature quickly. It was a fast-track opportunity to leap in their career. But insecurity was the usual by-product with the growth, both personally and organisationally. Every one of us suffers insecurity at some stage of our lives; How to minimise the negative impact on you and the people around you is the key. 
 
-If there was one lesson learnt from people around me at Wise, it was that the impact from hungry young people (lack of experience + motivation to learn + space to grow) is far greater than experienced senior hires, given the right organisational structure.
+If there was one lesson learnt from people around me at Wise, it was that **the impact from hungry young people (lack of experience + motivation to learn + space to grow) is far greater than experienced senior hires, given the right organisational structure**.

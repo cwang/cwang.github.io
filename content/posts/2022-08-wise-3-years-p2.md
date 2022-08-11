@@ -41,8 +41,8 @@ Compared to AWS, whose product-to-team assignment could not have been clearer th
 Autonomy was also prone to misinterpretation at times. A typical offending scenario was an individual or a team pursuing a misaligned goal often used autonomy as a defence to justify the behaviour. It was called out sometimes but tolerated other times, which had a negative impact not only on the offending individual or team, i.e. building the wrong thing, but also on others witnessing the behaviour, who in the unluckiest event might misjudge the true meaning of autonomy and follow the wrong examples. 
 
 To sum up, my ideal kind of autonomy would be:
-- Visibility-based autonomous teams: whoever has the fullest visibility should take the lead and act (in this case product teams usually act on a specific set of features while leadership may lead org-wise initiatives that require broader visibility and understanding of the subject matter);
-- Feedback on what to build beforehand, and retrospect on how it went afterwards;
-Be transparent throughout and be accountable for the result.     
+- **Visibility-based autonomous teams**: whoever has the fullest visibility should take the lead and act (in this case product teams usually act on a specific set of features while leadership may lead org-wise initiatives that require broader visibility and understanding of the subject matter);
+- **Feedback** on what to build beforehand, and **retrospect** on how it went afterwards;
+- Be **transparent** throughout and be **accountable** for the result.     
 
 Interestingly, Nilan’s [blog post](https://medium.com/transferwise-ideas/we-inspire-smart-people-and-we-trust-them-3ad8ef546d59) is still relevant after so many years. 
