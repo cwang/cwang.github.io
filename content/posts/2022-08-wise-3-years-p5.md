@@ -14,7 +14,9 @@ Let's talk about **strategies**. Jesse, one of the VCs who invested in Wise expl
 
 ## Fiscally responsible and disciplined
 
-It went hand-in-hand with the extreme form of autonomy that is mentioned in Part II, and let me explain. **At times, I felt that Wise was run like a machine on auto-dial: everybody and every team seemed to know exactly what to do next.** The numbers it was dialling? They were the likes of unit economics, CAC, LTV, revenue, EBITDA and most importantly, P&L. It rendered positive results as Wise had been profitable since 2017, which was rarely heard of in the fintech world even to this day. 
+Anybody working at Wise would have remembered Matt’s frequent appearances on the biweekly team call, talking about everything finance. It left a lasting impression on me: the company was always run in a responsible way financially. It made sense post-product-market-fit in the scaling phase of the company. 
+
+It went hand-in-hand with the extreme form of autonomy that is mentioned in Part II, and let me explain. At times, **I felt that Wise was run like a machine on auto-dial: everybody and every team seemed to know exactly what to do next.** The numbers Wise was dialling? They were the likes of unit economics, CAC, LTV, revenue, EBITDA and most importantly, P&L. It rendered positive results as Wise had been profitable since 2017, which was rarely heard of in the fintech world even to this day. 
 
 Another way to look at this: given that Wise already operated at a micro/team level with a data-driven approach, it was natural to operate in the same way at a macro/organisational level, with a different set of data to drive decision-making. 
  

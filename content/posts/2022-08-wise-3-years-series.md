@@ -14,7 +14,7 @@ My motivation was clear. I wanted to find out how a so-called unicorn scales, be
 
 I would be lying if I say I knew exactly what I signed up for on that day, or in the following three years. What I do know is ‘til this day I continue to benefit from my learnings from Wise. 
 
-This series is my report card for my time at Wise. In true Wise spirit, I aim to offer my candid view on a few crucial topics. 
+This series is my report card for my time at Wise. In true Wise spirit, I aim to offer my candid view on a number of crucial topics. 
 
 - [Part I: Missions and Values]({{< ref "/posts/2022-08-wise-3-years-p1.md" >}})
 - [Part II: Autonomy in the DNA]({{< ref "/posts/2022-08-wise-3-years-p2.md" >}})
