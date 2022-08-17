@@ -8,10 +8,10 @@ categories: ['Lessons Learned', 'Startup']
 
 ![Unsplash | micheile dot com](/micheile-dot-com-SoT4-mZhyhE-unsplash.jpg)
 
-### Product: (the small) addressable market size
+## Product: (the small) addressable market size
 Volcube was the best product in the space it occupies, which was a market-making trading simulation and education for financial options. This may sound like a boast but let me point out the fact that it is in such a niche market, which is combined with another fact that we did well in bringing a good idea into reality. Here comes the biggest learning though: always target a market with large addressable size. You might have a false sense of security and comfort in seeing your product gaining traction in a small market; however, you would touch the ceiling soon and as a result, you would not benefit from the biggest killer feature in any SaaS business: the economies of scale. We were lucky that there was money around in this niche market, therefore our customers could afford a much higher unit price we charge compared to a typical SaaS product. But a small market means a small number of customers, which in itself is a risk when one or two larger customers stop paying. 
 
-### Product: (paying) customers versus (non-paying) users
+## Product: (paying) customers versus (non-paying) users
 This is a typical scenario of paying customers who organise the learning for non-paying users who use Volcube to learn. In some cases, the interests are strongly aligned (a trading firm would be more than happy to invest in their graduate intakes); in others, not so much. 
 
 Despite the paying-user imparity, as a highly technical product and the best in the field, Volcube benefited from expert users in customer organisations, who advocate for the purchase. In general, our customers’ purchases are affected only by their available budgets.
@@ -20,16 +20,24 @@ On the user side, they are high-intent fast learners. What we found is a contrad
 
 What’s interesting was that against common product building advice of always listening to customers, we had clear ideas of what to build from day one for one of the co-founders was a domain expert who had also been in our customers’ position for many years prior. This was a scratch-your-own-itch product after all.   
 
-### Growth: bootstrapping versus venture capital
+## Growth: bootstrapping versus venture capital
 We bootstrapped Volcube, which had become profitable since 2nd year in business. It is simple math for a B2B SaaS business: making more sales and not overspending, which we followed. In a niche market, it worked. We had never talked to any VCs because there had been no need. 
 
 Hypothetically, things could have taken a turn if we did take VC money: we could target other financial instruments using the same piece of technology as the foundation; we could target retail investors with a B2C play. One thing for sure would be the drive to hyper-growth, with a go-big-or-go-bust attitude. I am afraid it would probably not lead to any exit as Volcube had, which would have not been considered worthwhile for venture-backed business.
 
 On the other hand, a leading product in a niche market provides a sustainable revenue stream for a lifestyle business. If a steady cash flow is something you’re after then there’s nothing wrong with pursuing such a business model.        
 
-### Growth: joint venture
+## Growth: joint venture
 This is an interesting one. Not many startups would ever come to this and it was certainly new to us at the time. It broadened the appeal of the product and took Volcube to markets we never knew existed. There had been mistakes made by us too. In the end, it led to a smooth exit thanks to the fact that both parties had been in business together for a while. 
 
 As it is clear that what the joint venture solved for us was sales, we should have invested more in growing our own sales team in hindsight.
 
-### Product & Growth: what we could have done differently
+## Product & Growth: what we could have done differently
+
+Both Simon and I were inexperienced SaaS founders at the time. I would follow a different decision-making process if I had a second chance.
+
+- By year 2 we should have known whether we were in a niche market or not:
+  - If no headroom in market size, I would look for an exit immediately, for opportunity cost (2 years vs 10 years working on the same product);
+  - If not in the niche market trap, I would ramp up sales to explore more revenue opportunities, in the process listening to customer feedback about whether to venture into other financial instruments;
+And potentially take external funding to fuel the growth.
+- By setting some milestones such as revenue/customer growth by year 3 or 4, I should have a clear idea of whether the SaaS model was performing. Make another exit decision by the end of year 3 or 4 according to revenue. 

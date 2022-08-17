@@ -1,6 +1,6 @@
 ---
 title: "Reflections on 3 years of (Transfer) Wise | Part IV: The Engineering Organisation"
-date: 2022-08-13T00:00:00Z
+date: 2022-08-14T00:00:00Z
 draft: false
 series: ['Reflections on 3 years of (Transfer) Wise']
 categories: ['Lessons Learned', 'Startup']
