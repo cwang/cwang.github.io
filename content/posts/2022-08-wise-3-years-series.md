@@ -1,6 +1,6 @@
 ---
 title: "Reflections on 3 years of (Transfer) Wise"
-date: 2022-08-31T00:00:00Z
+date: 2022-08-26T00:00:00Z
 draft: true
 categories: ['Lessons Learned', 'Startup']
 ---
@@ -22,6 +22,6 @@ This series is my report card for my time at Wise. In true Wise spirit, I aim to
 - [Part IV: Engineering Organisation]({{< ref "/posts/2022-08-wise-3-years-p4.md" >}})
 - [Part VI: Other Strategic Topics]({{< ref "/posts/2022-08-wise-3-years-p5.md" >}})
 - [Part VI: Not just about Work]({{< ref "/posts/2022-08-wise-3-years-p6.md" >}})
-- [Part VII: What I learned & Closing]({{< ref "/posts/2022-08-wise-3-years-p7.md" >}})
+- [Part VII: Closing Thoughts]({{< ref "/posts/2022-08-wise-3-years-p7.md" >}})
 
 ![beaworld festival | TransferWise Summer Days 2019](/beaworld_TransferWiseSummerDays2019.jpeg)

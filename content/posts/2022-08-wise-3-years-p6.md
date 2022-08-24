@@ -32,7 +32,7 @@ Before I forget, I did manage once to go from London to Budapest by **train** (B
 
 You make friends in any organisation. You make more friends in an organisation where people join and stay for the shared mission, and that was Wise while I was there. There were a diverse group of people too, based out of 4 major offices around the globe. They were also a smart and high-achieving bunch; working with them was intellectually challenging and rewarding. 
 
-After I started at London office, I would often bump into people around the small kitchen area in the middle of the open plan office and I made an effort to talk to as many people (I leaned it from Jose P.) especially those I didn’t know. Doing that made me realise that **[Dubar’s number](https://en.wikipedia.org/wiki/Dunbar%27s_number) was more or less true**: once the headcount went beyond 150, my brain started recycling old contacts with new acquaintances. Joke aside, I enjoyed those watercooler conversations greatly.
+After I started at London office, I would often bump into people around the small kitchen area in the middle of the open plan office and I made an effort to talk to as many people (I learned it from Jose P.) especially those I didn’t know. Doing that made me realise that **[Dubar’s number](https://en.wikipedia.org/wiki/Dunbar%27s_number) was more or less true**: once the headcount went beyond 150, my brain started recycling old contacts with new acquaintances. Joke aside, I enjoyed those watercooler conversations greatly.
 
 ![Wise | London Office 2018](/wise-london_office_2018.jpeg)
 (^ London Office, 2018 | Marta on scooter ^)
