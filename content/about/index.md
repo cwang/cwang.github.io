@@ -4,6 +4,8 @@ date: 2012-01-01T00:00:00Z
 draft: false
 ---
 
+**Current Status: Building [FABR](https://fabrhq.com) and [OpenFABR](https://github.com/openfabr)**
+
 ![Unsplash | Fabrizio Chiagano](/fabrizio-chiagano-rDwIXsgb2LY-unsplash.jpg)
 
 ## What this site is for
